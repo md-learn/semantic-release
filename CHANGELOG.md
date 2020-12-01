@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [1.1.0](https://github.com/md-learn/semantic-release/compare/v1.0.0...v1.1.0) (2020-12-01)
+
+
+### Features
+
+* add custom git hook to enforce conventional commits ([eed63b0](https://github.com/md-learn/semantic-release/commit/eed63b06f40e16944cb5ec43d9a13161fcedd3da))
+* add custom git hook to enforce conventional commits ([294dc3f](https://github.com/md-learn/semantic-release/commit/294dc3f1a856e18eb991f25c25c601d44e6b8139))
+
 # 1.0.0 (2020-12-01)
 
 
