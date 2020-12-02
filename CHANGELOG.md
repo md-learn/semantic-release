@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/md-learn/semantic-release/compare/v1.1.0...v1.2.0) (2020-12-02)
+
+
+### Features
+
+* add new ping api ([42ffb73](https://github.com/md-learn/semantic-release/commit/42ffb73c086c521029d75028343b7c56673ad471))
+
 # [1.1.0](https://github.com/md-learn/semantic-release/compare/v1.0.0...v1.1.0) (2020-12-01)
 
 
