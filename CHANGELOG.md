@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.2.1](https://github.com/md-learn/semantic-release/compare/v1.2.0...v1.2.1) (2020-12-02)
+
+
+### Bug Fixes
+
+* change hello api endpoint ([f94feff](https://github.com/md-learn/semantic-release/commit/f94feff8483ce31dc7cd496ee5bb7d8aceac7c72))
+
 # [1.2.0](https://github.com/md-learn/semantic-release/compare/v1.1.0...v1.2.0) (2020-12-02)
 
 
