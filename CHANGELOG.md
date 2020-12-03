@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/md-learn/semantic-release/compare/v1.2.1...v1.3.0) (2020-12-03)
+
+
+### Features
+
+* add new greetings api ([ede9d1b](https://github.com/md-learn/semantic-release/commit/ede9d1bd85b32b8bc61cd6434979d71e4f7424cb))
+
 ## [1.2.1](https://github.com/md-learn/semantic-release/compare/v1.2.0...v1.2.1) (2020-12-02)
 
 
