@@ -17,6 +17,14 @@ public class HelloController {
     }
 
     @GetMapping
+    @RequestMapping("/greeting")
+    public Greeting greetings() {
+
+        return new Greeting(1L, "Hello world");
+    }
+
+
+    @GetMapping
     @RequestMapping("/ping")
     public Object ping() {
 
