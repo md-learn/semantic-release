@@ -17,10 +17,10 @@ public class HelloController {
     }
 
     @GetMapping
-    @RequestMapping("/greeting")
+    @RequestMapping("/greetings")
     public Greeting greetings() {
 
-        return new Greeting(1L, "Hello world");
+        return new Greeting(1L, "Greetings");
     }
 
 
