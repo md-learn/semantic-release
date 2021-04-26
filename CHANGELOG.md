@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.3.1](https://github.com/md-learn/semantic-release/compare/v1.3.0...v1.3.1) (2021-04-26)
+
+
+### Bug Fixes
+
+* modify greetings API return message ([aa11e99](https://github.com/md-learn/semantic-release/commit/aa11e99dadfed519939c5d3939b42a9adb049d24))
+
 # [1.3.0](https://github.com/md-learn/semantic-release/compare/v1.2.1...v1.3.0) (2020-12-03)
 
 
