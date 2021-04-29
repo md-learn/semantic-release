@@ -23,4 +23,11 @@ public class HelloController {
         return new Greeting(1L, "Greetings");
     }
 
+    @GetMapping
+    @RequestMapping("/ping")
+    public Object ping() {
+
+        return new Greeting(1L, "Ping");
+    }
+
 }
