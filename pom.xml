@@ -13,7 +13,7 @@
 
     <groupId>com.klarna</groupId>
     <artifactId>md.semantic</artifactId>
-    <version>1.4.0</version>
+    <version>1.5.0</version>
 
     <properties>
         <java.version>11</java.version>
