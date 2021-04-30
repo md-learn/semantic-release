@@ -29,4 +29,4 @@ Github actions and semantic-release are used to:
 
 In `.github/workflows/main.yml` you can find the actual pipeline.
 
-In `.releaserc` you can find all the needed configuration for semantic-version plugins used.
+In `.releaserc` you can find all the needed configuration for semantic-version plugins used. Note that all plugins should be declared (and configured) in the order you want them to be executed.
